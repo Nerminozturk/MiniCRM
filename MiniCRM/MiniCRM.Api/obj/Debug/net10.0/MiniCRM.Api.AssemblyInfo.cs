@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniCRM.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a0dd61709f881624a36b4120d32902fe8a661d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniCRM.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniCRM.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
