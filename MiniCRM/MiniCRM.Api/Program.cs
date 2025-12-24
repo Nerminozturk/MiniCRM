@@ -2,8 +2,11 @@ using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using MiniCRM.Data;
-using MiniCRM.Services;
+
+using MiniCRM.Infrastructure.Data;
+using MiniCRM.Application.Interfaces;
+using MiniCRM.Infrastructure.Services;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +26,8 @@ builder.Services.AddDbContext<MiniCrmDbContext>(options =>
 
 // Services
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<ICompanyService, CompanyService>();
+
 
 // Authentication - JWT
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -56,7 +61,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthentication(); // 🔴 MUTLAKA Authorization'dan önce
+app.UseAuthentication(); // MUTLAKA Authorization'dan önce
 app.UseAuthorization();
 
 app.Run();
