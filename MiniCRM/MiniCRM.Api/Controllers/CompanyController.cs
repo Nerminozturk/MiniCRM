@@ -4,6 +4,8 @@ using MiniCRM.Application.DTOs;
 using MiniCRM.Application.Interfaces;
 using System.Security.Claims;
 
+namespace MiniCRM.Api.Controllers;
+
 [ApiController]
 [Route("api/company")]
 [Authorize]
