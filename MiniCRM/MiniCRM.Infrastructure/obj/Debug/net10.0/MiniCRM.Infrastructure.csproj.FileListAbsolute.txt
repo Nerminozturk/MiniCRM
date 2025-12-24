@@ -1,0 +1,17 @@
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/bin/Debug/net10.0/MiniCRM.Infrastructure.deps.json
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/bin/Debug/net10.0/MiniCRM.Infrastructure.dll
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/bin/Debug/net10.0/MiniCRM.Infrastructure.pdb
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/bin/Debug/net10.0/MiniCRM.Application.dll
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/bin/Debug/net10.0/MiniCRM.Domain.dll
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/bin/Debug/net10.0/MiniCRM.Application.pdb
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/bin/Debug/net10.0/MiniCRM.Domain.pdb
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/MiniCRM.Infrastructure.csproj.AssemblyReference.cache
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/MiniCRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/MiniCRM.Infrastructure.AssemblyInfoInputs.cache
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/MiniCRM.Infrastructure.AssemblyInfo.cs
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/MiniCRM.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/MiniCRM..4A116264.Up2Date
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/MiniCRM.Infrastructure.dll
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/refint/MiniCRM.Infrastructure.dll
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/MiniCRM.Infrastructure.pdb
+/Users/macbook/MiniCRM/MiniCRM/MiniCRM.Infrastructure/obj/Debug/net10.0/ref/MiniCRM.Infrastructure.dll
